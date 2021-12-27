@@ -45,7 +45,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sahana-sr-2119361a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sahana%20sr-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/_sahana_sramesh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamsana_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sahanasramesh20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahanasramesh20@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
