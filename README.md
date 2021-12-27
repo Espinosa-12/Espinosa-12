@@ -2,7 +2,7 @@
 PES College of Engineering
 Mandya,Karnataka
 
-Hello  all 👋
+Hii   👋
 
 I am Sahana.
 I love stufs like automation  using python and am also intrested in web development .
