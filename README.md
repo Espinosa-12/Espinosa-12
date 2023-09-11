@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at PES College of engineering Mandya.
+- 🎓 &nbsp; Justcompleted Computer Science and Engineering From PES College of engineering Mandya.
 - 💼 &nbsp; Not yet working ,and I am open to work in software development domain.
 - 🌱 &nbsp; Learning more about Web development, Automation using Pyhton .
 - ✍️ &nbsp; Pursuing Content Writing  as hobbies/side hustles.
